@@ -48,7 +48,7 @@ public class FoodTruck {
 	}
 
 	public String toString() {
-		return "FoodTruck " + "ID: " + tId + "\n Truck Name: " + truckName + "\n FoodType: " + foodType
+		return "\nFoodTruck " + "ID: " + tId + "\n Truck Name: " + truckName + "\n FoodType: " + foodType
 				+ "\n Truck rating: " + truckRating;
 	}
 
