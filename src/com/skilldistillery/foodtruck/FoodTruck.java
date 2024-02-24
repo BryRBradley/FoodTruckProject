@@ -2,7 +2,7 @@ package com.skilldistillery.foodtruck;
 
 public class FoodTruck {
 
-	private static int nextTruckId = 1;
+	private static int nextTruckId = 0;
 	private int tId = 0;
 	private String truckName = "";
 	private String foodType = "";
@@ -51,4 +51,5 @@ public class FoodTruck {
 		return "FoodTruck " + "ID: " + tId + "\n Truck Name: " + truckName + "\n FoodType: " + foodType
 				+ "\n Truck rating: " + truckRating;
 	}
+
 }
