@@ -14,7 +14,7 @@
 . Zoom and Slack for troubleshooting and Senior developer input
 . UML 
 
-#### Testing 	:sweat_smile:
+#### Testing 	
 . 23 Feb tested different user inputs to break the code logic: discovered and corrected mulitple issue 
 . 24 Feb tested logic flow and user inputs, properly breaks out when and where it is required to. 
 Code no longer accepts other inputs than what is requested. 
@@ -39,5 +39,7 @@ Code no longer accepts other inputs than what is requested.
  4. Break up the coding session so i can go at my own pace to really absorb the lesson learned and coding time with no pressure. 
 
 #### Links 
-https://github.com/BryRBradley/FoodTruckProject
-https://www.linkedin.com/in/bryan-bradley-a8740190/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bqb9kOW%2FXQAm%2BNevKa2FufA%3D%3D
+
+#### https://github.com/BryRBradley/FoodTruckProject
+
+#### https://www.linkedin.com/in/bryan-bradley-a8740190/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bqb9kOW%2FXQAm%2BNevKa2FufA%3D%3D
